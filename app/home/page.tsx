@@ -169,7 +169,7 @@ export default function DepartmentsPage() {
                 Select a department to join the queue or check waiting times
               </p>
             </div>
-
+            /done
             {/* Search Bar and My Bookings Button */}
             <div className="flex gap-3 items-center">
               <div className="relative w-full md:w-72">
